@@ -1,0 +1,32 @@
+C:\Users\webbc\source\repos\KatanaIntro\KatanaIntro\bin\Debug\KatanaIntro.exe.config
+C:\Users\webbc\source\repos\KatanaIntro\KatanaIntro\bin\Debug\KatanaIntro.exe
+C:\Users\webbc\source\repos\KatanaIntro\KatanaIntro\bin\Debug\KatanaIntro.pdb
+C:\Users\webbc\source\repos\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Diagnostics.dll
+C:\Users\webbc\source\repos\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.dll
+C:\Users\webbc\source\repos\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\webbc\source\repos\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\webbc\source\repos\KatanaIntro\KatanaIntro\bin\Debug\Owin.dll
+C:\Users\webbc\source\repos\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.xml
+C:\Users\webbc\source\repos\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Diagnostics.xml
+C:\Users\webbc\source\repos\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\webbc\source\repos\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\webbc\source\repos\KatanaIntro\KatanaIntro\obj\Debug\KatanaIntro.csprojResolveAssemblyReference.cache
+C:\Users\webbc\source\repos\KatanaIntro\KatanaIntro\obj\Debug\KatanaIntro.csproj.CoreCompileInputs.cache
+C:\Users\webbc\source\repos\KatanaIntro\KatanaIntro\obj\Debug\KatanaIntro.exe
+C:\Users\webbc\source\repos\KatanaIntro\KatanaIntro\obj\Debug\KatanaIntro.pdb
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\2 - OWIN and Katana\2.5 - The AppFunc\KatanaIntro\KatanaIntro\bin\Debug\KatanaIntro.exe.config
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\2 - OWIN and Katana\2.5 - The AppFunc\KatanaIntro\KatanaIntro\bin\Debug\KatanaIntro.exe
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\2 - OWIN and Katana\2.5 - The AppFunc\KatanaIntro\KatanaIntro\bin\Debug\KatanaIntro.pdb
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\2 - OWIN and Katana\2.5 - The AppFunc\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Diagnostics.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\2 - OWIN and Katana\2.5 - The AppFunc\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\2 - OWIN and Katana\2.5 - The AppFunc\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\2 - OWIN and Katana\2.5 - The AppFunc\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Hosting.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\2 - OWIN and Katana\2.5 - The AppFunc\KatanaIntro\KatanaIntro\bin\Debug\Owin.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\2 - OWIN and Katana\2.5 - The AppFunc\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\2 - OWIN and Katana\2.5 - The AppFunc\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Diagnostics.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\2 - OWIN and Katana\2.5 - The AppFunc\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\2 - OWIN and Katana\2.5 - The AppFunc\KatanaIntro\KatanaIntro\bin\Debug\Microsoft.Owin.Hosting.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\2 - OWIN and Katana\2.5 - The AppFunc\KatanaIntro\KatanaIntro\obj\Debug\KatanaIntro.csprojResolveAssemblyReference.cache
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\2 - OWIN and Katana\2.5 - The AppFunc\KatanaIntro\KatanaIntro\obj\Debug\KatanaIntro.csproj.CoreCompileInputs.cache
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\2 - OWIN and Katana\2.5 - The AppFunc\KatanaIntro\KatanaIntro\obj\Debug\KatanaIntro.exe
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\2 - OWIN and Katana\2.5 - The AppFunc\KatanaIntro\KatanaIntro\obj\Debug\KatanaIntro.pdb
