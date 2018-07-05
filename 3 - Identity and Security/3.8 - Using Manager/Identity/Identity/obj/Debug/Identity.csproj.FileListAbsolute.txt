@@ -1,0 +1,328 @@
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\roslyn\csc.exe
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\roslyn\Microsoft.CodeAnalysis.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\roslyn\Microsoft.CSharp.Core.targets
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\roslyn\System.Collections.Immutable.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\roslyn\System.Reflection.Metadata.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\roslyn\vbc.exe
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\roslyn\VBCSCompiler.exe
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\roslyn\VBCSCompiler.exe.config
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Identity.dll.config
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Identity.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Identity.pdb
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Antlr3.Runtime.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\EntityFramework.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\EntityFramework.SqlServer.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.AspNet.Identity.Core.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.AspNet.Identity.Owin.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.Owin.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.Owin.Host.SystemWeb.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.Owin.Security.Cookies.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.Owin.Security.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.Owin.Security.Facebook.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.Owin.Security.Google.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.Owin.Security.OAuth.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.Owin.Security.Twitter.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.Web.Infrastructure.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Newtonsoft.Json.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Owin.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\System.Web.Helpers.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\System.Web.Mvc.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\System.Web.Optimization.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\System.Web.Razor.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\System.Web.WebPages.Deployment.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\System.Web.WebPages.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\System.Web.WebPages.Razor.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\WebGrease.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\System.Web.Helpers.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\System.Web.Mvc.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\System.Web.Optimization.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\System.Web.Razor.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\System.Web.WebPages.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\System.Web.WebPages.Deployment.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\System.Web.WebPages.Razor.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Antlr3.Runtime.pdb
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Newtonsoft.Json.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\EntityFramework.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\EntityFramework.SqlServer.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.AspNet.Identity.Core.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.AspNet.Identity.Owin.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.Owin.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.Owin.Host.SystemWeb.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.Owin.Security.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.Owin.Security.Facebook.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.Owin.Security.Cookies.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.Owin.Security.OAuth.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.Owin.Security.Google.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.Owin.Security.Twitter.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\obj\Debug\Identity.csprojResolveAssemblyReference.cache
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\obj\Debug\Identity.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\obj\Debug\Identity.pdb
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\ApplicationInsights.config
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.AI.Agent.Intercept.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.AI.DependencyCollector.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.AI.PerfCounterCollector.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.AI.Web.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.AI.WindowsServer.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.ApplicationInsights.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.AI.DependencyCollector.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.AI.Web.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.AI.WindowsServer.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\Identity\Identity\bin\Microsoft.ApplicationInsights.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\ApplicationInsights.config
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\roslyn\csc.exe
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\roslyn\Microsoft.CodeAnalysis.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\roslyn\Microsoft.CSharp.Core.targets
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\roslyn\System.Collections.Immutable.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\roslyn\System.Reflection.Metadata.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\roslyn\vbc.exe
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\roslyn\VBCSCompiler.exe
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\roslyn\VBCSCompiler.exe.config
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Identity.dll.config
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Identity.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Identity.pdb
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Antlr3.Runtime.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\EntityFramework.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\EntityFramework.SqlServer.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.AI.Agent.Intercept.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.AI.DependencyCollector.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.AI.PerfCounterCollector.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.AI.Web.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.AI.WindowsServer.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.ApplicationInsights.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.AspNet.Identity.Core.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.AspNet.Identity.Owin.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.Owin.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.Owin.Host.SystemWeb.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.Owin.Security.Cookies.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.Owin.Security.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.Owin.Security.Facebook.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.Owin.Security.Google.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.Owin.Security.OAuth.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.Owin.Security.Twitter.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.Web.Infrastructure.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Newtonsoft.Json.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Owin.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\System.Web.Helpers.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\System.Web.Mvc.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\System.Web.Optimization.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\System.Web.Razor.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\System.Web.WebPages.Deployment.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\System.Web.WebPages.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\System.Web.WebPages.Razor.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\WebGrease.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.AI.DependencyCollector.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.AI.Web.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.AI.WindowsServer.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.ApplicationInsights.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\System.Web.Helpers.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\System.Web.Mvc.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\System.Web.Optimization.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\System.Web.Razor.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\System.Web.WebPages.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\System.Web.WebPages.Deployment.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\System.Web.WebPages.Razor.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Antlr3.Runtime.pdb
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Newtonsoft.Json.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\EntityFramework.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\EntityFramework.SqlServer.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.AspNet.Identity.Core.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.AspNet.Identity.Owin.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.Owin.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.Owin.Host.SystemWeb.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.Owin.Security.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.Owin.Security.Facebook.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.Owin.Security.Cookies.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.Owin.Security.OAuth.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.Owin.Security.Google.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.Owin.Security.Twitter.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\obj\Debug\Identity.csprojResolveAssemblyReference.cache
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\obj\Debug\Identity.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.4 - [Authorize]\Identity\Identity\obj\Debug\Identity.pdb
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\ApplicationInsights.config
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\roslyn\csc.exe
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\roslyn\Microsoft.CodeAnalysis.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\roslyn\Microsoft.CSharp.Core.targets
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\roslyn\System.Collections.Immutable.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\roslyn\System.Reflection.Metadata.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\roslyn\vbc.exe
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\roslyn\VBCSCompiler.exe
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\roslyn\VBCSCompiler.exe.config
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Identity.dll.config
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Identity.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Identity.pdb
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Antlr3.Runtime.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\EntityFramework.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\EntityFramework.SqlServer.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.AI.Agent.Intercept.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.AI.DependencyCollector.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.AI.PerfCounterCollector.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.AI.Web.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.AI.WindowsServer.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.ApplicationInsights.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.AspNet.Identity.Core.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.AspNet.Identity.Owin.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.Owin.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.Owin.Host.SystemWeb.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.Owin.Security.Cookies.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.Owin.Security.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.Owin.Security.Facebook.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.Owin.Security.Google.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.Owin.Security.OAuth.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.Owin.Security.Twitter.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.Web.Infrastructure.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Newtonsoft.Json.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Owin.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\System.Web.Helpers.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\System.Web.Mvc.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\System.Web.Optimization.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\System.Web.Razor.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\System.Web.WebPages.Deployment.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\System.Web.WebPages.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\System.Web.WebPages.Razor.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\WebGrease.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.AI.DependencyCollector.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.AI.Web.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.AI.WindowsServer.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.ApplicationInsights.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\System.Web.Helpers.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\System.Web.Mvc.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\System.Web.Optimization.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\System.Web.Razor.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\System.Web.WebPages.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\System.Web.WebPages.Deployment.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\System.Web.WebPages.Razor.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Antlr3.Runtime.pdb
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Newtonsoft.Json.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\EntityFramework.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\EntityFramework.SqlServer.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.AspNet.Identity.Core.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.AspNet.Identity.Owin.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.Owin.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.Owin.Host.SystemWeb.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.Owin.Security.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.Owin.Security.Facebook.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.Owin.Security.Cookies.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.Owin.Security.OAuth.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.Owin.Security.Google.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.Owin.Security.Twitter.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\obj\Debug\Identity.csprojResolveAssemblyReference.cache
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\obj\Debug\Identity.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.5 - The Database\Identity\Identity\obj\Debug\Identity.pdb
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\ApplicationInsights.config
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\roslyn\csc.exe
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\roslyn\Microsoft.CodeAnalysis.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\roslyn\Microsoft.CSharp.Core.targets
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\roslyn\System.Collections.Immutable.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\roslyn\System.Reflection.Metadata.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\roslyn\vbc.exe
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\roslyn\VBCSCompiler.exe
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\roslyn\VBCSCompiler.exe.config
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Identity.dll.config
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Identity.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Identity.pdb
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Antlr3.Runtime.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\EntityFramework.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\EntityFramework.SqlServer.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.AI.Agent.Intercept.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.AI.DependencyCollector.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.AI.PerfCounterCollector.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.AI.Web.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.AI.WindowsServer.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.ApplicationInsights.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.AspNet.Identity.Core.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.AspNet.Identity.Owin.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.Owin.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.Owin.Host.SystemWeb.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.Owin.Security.Cookies.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.Owin.Security.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.Owin.Security.Facebook.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.Owin.Security.Google.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.Owin.Security.OAuth.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.Owin.Security.Twitter.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.Web.Infrastructure.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Newtonsoft.Json.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Owin.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\System.Web.Helpers.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\System.Web.Mvc.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\System.Web.Optimization.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\System.Web.Razor.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\System.Web.WebPages.Deployment.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\System.Web.WebPages.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\System.Web.WebPages.Razor.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\WebGrease.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.AI.DependencyCollector.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.AI.Web.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.AI.WindowsServer.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.ApplicationInsights.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\System.Web.Helpers.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\System.Web.Mvc.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\System.Web.Optimization.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\System.Web.Razor.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\System.Web.WebPages.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\System.Web.WebPages.Deployment.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\System.Web.WebPages.Razor.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Antlr3.Runtime.pdb
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Newtonsoft.Json.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\EntityFramework.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\EntityFramework.SqlServer.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.AspNet.Identity.Core.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.AspNet.Identity.Owin.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.Owin.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.Owin.Host.SystemWeb.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.Owin.Security.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.Owin.Security.Facebook.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.Owin.Security.Cookies.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.Owin.Security.OAuth.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.Owin.Security.Google.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.Owin.Security.Twitter.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\obj\Debug\Identity.csprojResolveAssemblyReference.cache
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\obj\Debug\Identity.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\3 - Identity and Security\3.8 - Using Manager\Identity\Identity\obj\Debug\Identity.pdb
