@@ -1,0 +1,9 @@
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\5 - WebAPI 2\5.7 - Cross Origin Resource Sharing\PatientData\CorsClient\bin\CorsClient.dll.config
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\5 - WebAPI 2\5.7 - Cross Origin Resource Sharing\PatientData\CorsClient\bin\CorsClient.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\5 - WebAPI 2\5.7 - Cross Origin Resource Sharing\PatientData\CorsClient\bin\CorsClient.pdb
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\5 - WebAPI 2\5.7 - Cross Origin Resource Sharing\PatientData\CorsClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\5 - WebAPI 2\5.7 - Cross Origin Resource Sharing\PatientData\CorsClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\5 - WebAPI 2\5.7 - Cross Origin Resource Sharing\PatientData\CorsClient\obj\Debug\CorsClient.csprojResolveAssemblyReference.cache
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\5 - WebAPI 2\5.7 - Cross Origin Resource Sharing\PatientData\CorsClient\obj\Debug\CorsClient.csproj.CoreCompileInputs.cache
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\5 - WebAPI 2\5.7 - Cross Origin Resource Sharing\PatientData\CorsClient\obj\Debug\CorsClient.dll
+W:\Web Dev\Courses\asp.net-mvc-5-fundamentals\5 - WebAPI 2\5.7 - Cross Origin Resource Sharing\PatientData\CorsClient\obj\Debug\CorsClient.pdb
