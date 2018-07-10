@@ -1,0 +1,12 @@
+C:\Courses\asp.net-mvc-5-fundamentals\6 - Entity Framework 6\6.3 - Starting Up\Books\Books.Entities\bin\Debug\Books.Entities.dll
+C:\Courses\asp.net-mvc-5-fundamentals\6 - Entity Framework 6\6.3 - Starting Up\Books\Books.Entities\bin\Debug\Books.Entities.pdb
+C:\Courses\asp.net-mvc-5-fundamentals\6 - Entity Framework 6\6.3 - Starting Up\Books\Books.Entities\obj\Debug\Books.Entities.csprojAssemblyReference.cache
+C:\Courses\asp.net-mvc-5-fundamentals\6 - Entity Framework 6\6.3 - Starting Up\Books\Books.Entities\obj\Debug\Books.Entities.csproj.CoreCompileInputs.cache
+C:\Courses\asp.net-mvc-5-fundamentals\6 - Entity Framework 6\6.3 - Starting Up\Books\Books.Entities\obj\Debug\Books.Entities.dll
+C:\Courses\asp.net-mvc-5-fundamentals\6 - Entity Framework 6\6.3 - Starting Up\Books\Books.Entities\obj\Debug\Books.Entities.pdb
+C:\asp.net-mvc-5-fundamentals\6 - Entity Framework 6\6.5 - Scaffolding\Books\Books.Entities\bin\Debug\Books.Entities.dll
+C:\asp.net-mvc-5-fundamentals\6 - Entity Framework 6\6.5 - Scaffolding\Books\Books.Entities\bin\Debug\Books.Entities.pdb
+C:\asp.net-mvc-5-fundamentals\6 - Entity Framework 6\6.5 - Scaffolding\Books\Books.Entities\obj\Debug\Books.Entities.csprojAssemblyReference.cache
+C:\asp.net-mvc-5-fundamentals\6 - Entity Framework 6\6.5 - Scaffolding\Books\Books.Entities\obj\Debug\Books.Entities.csproj.CoreCompileInputs.cache
+C:\asp.net-mvc-5-fundamentals\6 - Entity Framework 6\6.5 - Scaffolding\Books\Books.Entities\obj\Debug\Books.Entities.dll
+C:\asp.net-mvc-5-fundamentals\6 - Entity Framework 6\6.5 - Scaffolding\Books\Books.Entities\obj\Debug\Books.Entities.pdb
