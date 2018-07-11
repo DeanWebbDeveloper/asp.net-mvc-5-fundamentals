@@ -1,0 +1,465 @@
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\ApplicationInsights.config
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\WebDevTools.dll.config
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\WebDevTools.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\WebDevTools.pdb
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\csc.exe
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\csc.exe.config
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\csc.rsp
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\csi.exe
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\csi.exe.config
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\csi.rsp
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\System.AppContext.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\System.Console.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\System.IO.Compression.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\System.IO.Pipes.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\System.Security.Claims.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\System.Threading.Thread.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\System.ValueTuple.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\System.Xml.XPath.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\vbc.exe
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\vbc.exe.config
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\vbc.rsp
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\VBCSCompiler.exe
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\Antlr3.Runtime.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\Microsoft.AI.Web.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\Microsoft.ApplicationInsights.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\Newtonsoft.Json.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\System.Web.Helpers.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\System.Web.Mvc.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\System.Web.Optimization.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\System.Web.Razor.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\System.Web.WebPages.Deployment.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\System.Web.WebPages.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\System.Web.WebPages.Razor.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\WebGrease.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\System.Web.Helpers.xml
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\System.Web.Mvc.xml
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\System.Web.Optimization.xml
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\System.Web.Razor.xml
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\System.Web.WebPages.xml
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\System.Web.WebPages.Deployment.xml
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\System.Web.WebPages.Razor.xml
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\Newtonsoft.Json.xml
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\Antlr3.Runtime.pdb
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\Microsoft.AI.Web.xml
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\obj\Debug\WebDevTools.csprojAssemblyReference.cache
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\obj\Debug\WebDevTools.csproj.CoreCompileInputs.cache
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\obj\Debug\WebDevTools.csproj.CopyComplete
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\obj\Debug\WebDevTools.dll
+C:\Users\christop.webb\source\repos\WebDevTools\WebDevTools\obj\Debug\WebDevTools.pdb
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\ApplicationInsights.config
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\WebDevTools.dll.config
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\WebDevTools.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\WebDevTools.pdb
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\csc.exe
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\csc.exe.config
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\csc.rsp
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\csi.exe
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\csi.exe.config
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\csi.rsp
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\System.AppContext.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\System.Collections.Immutable.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\System.Console.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\System.Diagnostics.Process.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\System.IO.Compression.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\System.IO.FileSystem.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\System.IO.Pipes.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\System.Reflection.Metadata.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\System.Security.AccessControl.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\System.Security.Claims.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\System.Security.Principal.Windows.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\System.Threading.Thread.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\System.ValueTuple.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\System.Xml.XmlDocument.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\System.Xml.XPath.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\vbc.exe
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\vbc.exe.config
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\vbc.rsp
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\VBCSCompiler.exe
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\roslyn\VBCSCompiler.exe.config
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\Antlr3.Runtime.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\Microsoft.AI.Agent.Intercept.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\Microsoft.AI.DependencyCollector.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\Microsoft.AI.Web.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\Microsoft.AI.WindowsServer.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\Microsoft.ApplicationInsights.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\Microsoft.Web.Infrastructure.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\Newtonsoft.Json.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\System.Diagnostics.DiagnosticSource.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\System.Web.Helpers.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\System.Web.Mvc.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\System.Web.Optimization.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\System.Web.Razor.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\System.Web.WebPages.Deployment.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\System.Web.WebPages.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\System.Web.WebPages.Razor.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\WebGrease.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\System.Web.Helpers.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\System.Web.Mvc.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\System.Web.Optimization.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\System.Web.Razor.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\System.Web.WebPages.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\System.Web.WebPages.Deployment.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\System.Web.WebPages.Razor.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\Newtonsoft.Json.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\Antlr3.Runtime.pdb
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\System.Diagnostics.DiagnosticSource.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\Microsoft.AI.DependencyCollector.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\Microsoft.AI.WindowsServer.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\Microsoft.AI.Web.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\obj\Debug\WebDevTools.csprojAssemblyReference.cache
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\obj\Debug\WebDevTools.csproj.CoreCompileInputs.cache
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\obj\Debug\WebDevTools.csproj.CopyComplete
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\obj\Debug\WebDevTools.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.3 - Scaffolding\WebDevTools\WebDevTools\obj\Debug\WebDevTools.pdb
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\obj\Debug\WebDevTools.csprojAssemblyReference.cache
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\obj\Debug\WebDevTools.csproj.CoreCompileInputs.cache
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\obj\Debug\WebDevTools.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\obj\Debug\WebDevTools.pdb
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\ApplicationInsights.config
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\WebDevTools.dll.config
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\WebDevTools.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\WebDevTools.pdb
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\csc.exe
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\csc.exe.config
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\csc.rsp
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\csi.exe
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\csi.exe.config
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\csi.rsp
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\System.AppContext.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\System.Collections.Immutable.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\System.Console.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\System.Diagnostics.Process.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\System.IO.Compression.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\System.IO.FileSystem.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\System.IO.Pipes.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\System.Reflection.Metadata.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\System.Security.AccessControl.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\System.Security.Claims.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\System.Security.Principal.Windows.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\System.Threading.Thread.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\System.ValueTuple.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\System.Xml.XmlDocument.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\System.Xml.XPath.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\vbc.exe
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\vbc.exe.config
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\vbc.rsp
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\VBCSCompiler.exe
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\roslyn\VBCSCompiler.exe.config
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\Antlr3.Runtime.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\Microsoft.AI.Agent.Intercept.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\Microsoft.AI.DependencyCollector.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\Microsoft.AI.Web.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\Microsoft.AI.WindowsServer.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\Microsoft.ApplicationInsights.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\Microsoft.Web.Infrastructure.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\Newtonsoft.Json.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\System.Diagnostics.DiagnosticSource.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\System.Web.Helpers.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\System.Web.Mvc.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\System.Web.Optimization.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\System.Web.Razor.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\System.Web.WebPages.Deployment.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\System.Web.WebPages.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\System.Web.WebPages.Razor.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\WebGrease.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\System.Web.Helpers.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\System.Web.Mvc.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\System.Web.Optimization.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\System.Web.Razor.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\System.Web.WebPages.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\System.Web.WebPages.Deployment.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\System.Web.WebPages.Razor.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\Newtonsoft.Json.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\Antlr3.Runtime.pdb
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\System.Diagnostics.DiagnosticSource.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\Microsoft.AI.DependencyCollector.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\Microsoft.AI.WindowsServer.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\Microsoft.AI.Web.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.4 - Web Essentials Overview\WebDevTools\WebDevTools\obj\Debug\WebDevTools.csproj.CopyComplete
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\ApplicationInsights.config
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\WebDevTools.dll.config
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\WebDevTools.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\WebDevTools.pdb
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\csc.exe
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\csc.exe.config
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\csc.rsp
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\csi.exe
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\csi.exe.config
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\csi.rsp
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\System.AppContext.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\System.Collections.Immutable.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\System.Console.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\System.Diagnostics.Process.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\System.IO.Compression.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\System.IO.FileSystem.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\System.IO.Pipes.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\System.Reflection.Metadata.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\System.Security.AccessControl.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\System.Security.Claims.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\System.Security.Principal.Windows.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\System.Threading.Thread.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\System.ValueTuple.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\System.Xml.XmlDocument.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\System.Xml.XPath.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\vbc.exe
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\vbc.exe.config
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\vbc.rsp
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\VBCSCompiler.exe
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\roslyn\VBCSCompiler.exe.config
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\Antlr3.Runtime.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\Microsoft.AI.Agent.Intercept.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\Microsoft.AI.DependencyCollector.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\Microsoft.AI.Web.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\Microsoft.AI.WindowsServer.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\Microsoft.ApplicationInsights.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\Microsoft.Web.Infrastructure.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\Newtonsoft.Json.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\System.Diagnostics.DiagnosticSource.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\System.Web.Helpers.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\System.Web.Mvc.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\System.Web.Optimization.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\System.Web.Razor.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\System.Web.WebPages.Deployment.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\System.Web.WebPages.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\System.Web.WebPages.Razor.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\WebGrease.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\System.Web.Helpers.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\System.Web.Mvc.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\System.Web.Optimization.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\System.Web.Razor.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\System.Web.WebPages.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\System.Web.WebPages.Deployment.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\System.Web.WebPages.Razor.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\Newtonsoft.Json.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\Antlr3.Runtime.pdb
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\System.Diagnostics.DiagnosticSource.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\Microsoft.AI.DependencyCollector.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\Microsoft.AI.WindowsServer.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\Microsoft.AI.Web.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\obj\Debug\WebDevTools.csprojAssemblyReference.cache
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\obj\Debug\WebDevTools.csproj.CoreCompileInputs.cache
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\obj\Debug\WebDevTools.csproj.CopyComplete
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\obj\Debug\WebDevTools.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.5 - Editor Tricks\WebDevTools\WebDevTools\obj\Debug\WebDevTools.pdb
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\ApplicationInsights.config
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\WebDevTools.dll.config
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\WebDevTools.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\WebDevTools.pdb
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\csc.exe
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\csc.exe.config
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\csc.rsp
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\csi.exe
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\csi.exe.config
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\csi.rsp
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\System.AppContext.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\System.Collections.Immutable.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\System.Console.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\System.Diagnostics.Process.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\System.IO.Compression.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\System.IO.FileSystem.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\System.IO.Pipes.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\System.Reflection.Metadata.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\System.Security.AccessControl.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\System.Security.Claims.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\System.Security.Principal.Windows.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\System.Threading.Thread.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\System.ValueTuple.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\System.Xml.XmlDocument.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\System.Xml.XPath.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\vbc.exe
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\vbc.exe.config
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\vbc.rsp
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\VBCSCompiler.exe
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\roslyn\VBCSCompiler.exe.config
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\Antlr3.Runtime.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\Microsoft.AI.Agent.Intercept.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\Microsoft.AI.DependencyCollector.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\Microsoft.AI.Web.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\Microsoft.AI.WindowsServer.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\Microsoft.ApplicationInsights.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\Microsoft.Web.Infrastructure.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\Newtonsoft.Json.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\System.Diagnostics.DiagnosticSource.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\System.Web.Helpers.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\System.Web.Mvc.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\System.Web.Optimization.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\System.Web.Razor.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\System.Web.WebPages.Deployment.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\System.Web.WebPages.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\System.Web.WebPages.Razor.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\WebGrease.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\System.Web.Helpers.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\System.Web.Mvc.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\System.Web.Optimization.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\System.Web.Razor.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\System.Web.WebPages.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\System.Web.WebPages.Deployment.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\System.Web.WebPages.Razor.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\Newtonsoft.Json.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\Antlr3.Runtime.pdb
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\System.Diagnostics.DiagnosticSource.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\Microsoft.AI.DependencyCollector.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\Microsoft.AI.WindowsServer.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\Microsoft.AI.Web.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\obj\Debug\WebDevTools.csprojAssemblyReference.cache
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\obj\Debug\WebDevTools.csproj.CoreCompileInputs.cache
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\obj\Debug\WebDevTools.csproj.CopyComplete
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\obj\Debug\WebDevTools.dll
+C:\asp.net-mvc-5-fundamentals\8 - Web Develop Tools and Visual Studio 2013\8.6 - LESS\WebDevTools\WebDevTools\obj\Debug\WebDevTools.pdb

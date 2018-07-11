@@ -1,0 +1,416 @@
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\ApplicationInsights.config
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\PerfSerf.dll.config
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\PerfSerf.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\PerfSerf.pdb
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\csc.exe
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\csc.exe.config
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\csc.rsp
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\csi.exe
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\csi.exe.config
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\csi.rsp
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\System.AppContext.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\System.Collections.Immutable.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\System.Console.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\System.Diagnostics.Process.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\System.IO.Compression.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\System.IO.FileSystem.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\System.IO.Pipes.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\System.Reflection.Metadata.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\System.Security.AccessControl.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\System.Security.Claims.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\System.Security.Principal.Windows.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\System.Threading.Thread.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\System.ValueTuple.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\System.Xml.XmlDocument.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\System.Xml.XPath.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\vbc.exe
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\vbc.exe.config
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\vbc.rsp
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\VBCSCompiler.exe
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\roslyn\VBCSCompiler.exe.config
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\Antlr3.Runtime.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\Microsoft.AI.Agent.Intercept.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\Microsoft.AI.DependencyCollector.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\Microsoft.AI.Web.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\Microsoft.AI.WindowsServer.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\Microsoft.ApplicationInsights.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\Microsoft.Owin.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\Microsoft.Owin.Security.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\Microsoft.Web.Infrastructure.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\Newtonsoft.Json.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\Owin.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\System.Diagnostics.DiagnosticSource.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\System.Web.Helpers.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\System.Web.Mvc.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\System.Web.Optimization.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\System.Web.Razor.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\System.Web.WebPages.Deployment.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\System.Web.WebPages.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\System.Web.WebPages.Razor.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\WebGrease.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\Microsoft.Owin.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\Microsoft.Owin.Security.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\System.Web.Helpers.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\System.Web.Mvc.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\System.Web.Optimization.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\System.Web.Razor.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\System.Web.WebPages.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\System.Web.WebPages.Deployment.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\System.Web.WebPages.Razor.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\Newtonsoft.Json.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\Antlr3.Runtime.pdb
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\System.Diagnostics.DiagnosticSource.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\Microsoft.AI.DependencyCollector.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\Microsoft.AI.WindowsServer.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\Microsoft.AI.Web.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\obj\Debug\PerfSerf.csprojAssemblyReference.cache
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\obj\Debug\PerfSerf.csproj.CoreCompileInputs.cache
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\obj\Debug\PerfSerf.csproj.CopyComplete
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\obj\Debug\PerfSerf.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.4 - Setting Up\PerfSerf\PerfSerf\obj\Debug\PerfSerf.pdb
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\ApplicationInsights.config
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\PerfSerf.dll.config
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\PerfSerf.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\PerfSerf.pdb
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\csc.exe
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\csc.exe.config
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\csc.rsp
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\csi.exe
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\csi.exe.config
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\csi.rsp
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\System.AppContext.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\System.Collections.Immutable.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\System.Console.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\System.Diagnostics.Process.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\System.IO.Compression.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\System.IO.FileSystem.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\System.IO.Pipes.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\System.Reflection.Metadata.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\System.Security.AccessControl.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\System.Security.Claims.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\System.Security.Principal.Windows.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\System.Threading.Thread.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\System.ValueTuple.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\System.Xml.XmlDocument.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\System.Xml.XPath.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\vbc.exe
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\vbc.exe.config
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\vbc.rsp
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\VBCSCompiler.exe
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\roslyn\VBCSCompiler.exe.config
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\Antlr3.Runtime.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\Microsoft.AI.Agent.Intercept.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\Microsoft.AI.DependencyCollector.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\Microsoft.AI.Web.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\Microsoft.AI.WindowsServer.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\Microsoft.ApplicationInsights.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\Microsoft.Owin.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\Microsoft.Owin.Security.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\Microsoft.Web.Infrastructure.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\Newtonsoft.Json.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\Owin.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\System.Diagnostics.DiagnosticSource.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\System.Web.Helpers.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\System.Web.Mvc.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\System.Web.Optimization.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\System.Web.Razor.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\System.Web.WebPages.Deployment.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\System.Web.WebPages.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\System.Web.WebPages.Razor.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\WebGrease.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\Microsoft.Owin.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\Microsoft.Owin.Security.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\System.Web.Helpers.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\System.Web.Mvc.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\System.Web.Optimization.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\System.Web.Razor.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\System.Web.WebPages.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\System.Web.WebPages.Deployment.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\System.Web.WebPages.Razor.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\Newtonsoft.Json.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\Antlr3.Runtime.pdb
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\System.Diagnostics.DiagnosticSource.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\Microsoft.AI.DependencyCollector.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\Microsoft.AI.WindowsServer.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\Microsoft.AI.Web.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\obj\Debug\PerfSerf.csprojAssemblyReference.cache
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\obj\Debug\PerfSerf.csproj.CoreCompileInputs.cache
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\obj\Debug\PerfSerf.csproj.CopyComplete
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\obj\Debug\PerfSerf.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.5 - Being Chatty\PerfSerf\PerfSerf\obj\Debug\PerfSerf.pdb
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\ApplicationInsights.config
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\PerfSerf.dll.config
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\PerfSerf.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\PerfSerf.pdb
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\csc.exe
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\csc.exe.config
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\csc.rsp
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\csi.exe
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\csi.exe.config
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\csi.rsp
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\System.AppContext.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\System.Collections.Immutable.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\System.Console.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\System.Diagnostics.Process.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\System.IO.Compression.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\System.IO.FileSystem.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\System.IO.Pipes.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\System.Reflection.Metadata.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\System.Security.AccessControl.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\System.Security.Claims.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\System.Security.Principal.Windows.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\System.Threading.Thread.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\System.ValueTuple.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\System.Xml.XmlDocument.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\System.Xml.XPath.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\vbc.exe
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\vbc.exe.config
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\vbc.rsp
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\VBCSCompiler.exe
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\roslyn\VBCSCompiler.exe.config
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\Antlr3.Runtime.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\Microsoft.AI.Agent.Intercept.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\Microsoft.AI.DependencyCollector.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\Microsoft.AI.Web.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\Microsoft.AI.WindowsServer.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\Microsoft.ApplicationInsights.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\Microsoft.Owin.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\Microsoft.Owin.Security.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\Microsoft.Web.Infrastructure.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\Newtonsoft.Json.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\Owin.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\System.Diagnostics.DiagnosticSource.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\System.Web.Helpers.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\System.Web.Mvc.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\System.Web.Optimization.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\System.Web.Razor.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\System.Web.WebPages.Deployment.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\System.Web.WebPages.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\System.Web.WebPages.Razor.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\WebGrease.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\Microsoft.Owin.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\Microsoft.Owin.Security.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\System.Web.Helpers.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\System.Web.Mvc.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\System.Web.Optimization.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\System.Web.Razor.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\System.Web.WebPages.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\System.Web.WebPages.Deployment.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\System.Web.WebPages.Razor.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\Newtonsoft.Json.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\Antlr3.Runtime.pdb
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\System.Diagnostics.DiagnosticSource.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\Microsoft.AI.DependencyCollector.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\Microsoft.AI.WindowsServer.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\Microsoft.AI.Web.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\obj\Debug\PerfSerf.csprojAssemblyReference.cache
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\obj\Debug\PerfSerf.csproj.CoreCompileInputs.cache
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\obj\Debug\PerfSerf.csproj.CopyComplete
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\obj\Debug\PerfSerf.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.6 - PerfServer\PerfSerf\PerfSerf\obj\Debug\PerfSerf.pdb
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\ApplicationInsights.config
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\PerfSerf.dll.config
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\PerfSerf.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\PerfSerf.pdb
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\csc.exe
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\csc.exe.config
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\csc.rsp
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\csi.exe
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\csi.exe.config
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\csi.rsp
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\System.AppContext.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\System.Collections.Immutable.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\System.Console.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\System.Diagnostics.Process.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\System.IO.Compression.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\System.IO.FileSystem.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\System.IO.Pipes.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\System.Reflection.Metadata.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\System.Security.AccessControl.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\System.Security.Claims.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\System.Security.Principal.Windows.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\System.Threading.Thread.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\System.ValueTuple.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\System.Xml.XmlDocument.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\System.Xml.XPath.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\vbc.exe
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\vbc.exe.config
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\vbc.rsp
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\VBCSCompiler.exe
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\roslyn\VBCSCompiler.exe.config
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\Antlr3.Runtime.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\Microsoft.AI.Agent.Intercept.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\Microsoft.AI.DependencyCollector.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\Microsoft.AI.Web.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\Microsoft.AI.WindowsServer.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\Microsoft.ApplicationInsights.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\Microsoft.Owin.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\Microsoft.Owin.Security.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\Microsoft.Web.Infrastructure.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\Newtonsoft.Json.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\Owin.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\System.Diagnostics.DiagnosticSource.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\System.Web.Helpers.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\System.Web.Mvc.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\System.Web.Optimization.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\System.Web.Razor.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\System.Web.WebPages.Deployment.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\System.Web.WebPages.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\System.Web.WebPages.Razor.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\WebGrease.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\Microsoft.Owin.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\Microsoft.Owin.Security.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\System.Web.Helpers.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\System.Web.Mvc.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\System.Web.Optimization.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\System.Web.Razor.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\System.Web.WebPages.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\System.Web.WebPages.Deployment.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\System.Web.WebPages.Razor.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\Newtonsoft.Json.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\Antlr3.Runtime.pdb
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\System.Diagnostics.DiagnosticSource.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\Microsoft.AI.DependencyCollector.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\Microsoft.AI.WindowsServer.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\Microsoft.AI.Web.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\obj\Debug\PerfSerf.csprojAssemblyReference.cache
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\obj\Debug\PerfSerf.csproj.CoreCompileInputs.cache
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\obj\Debug\PerfSerf.csproj.CopyComplete
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\obj\Debug\PerfSerf.dll
+C:\asp.net-mvc-5-fundamentals\7 - SignalR\7.7 - PerfClient\PerfSerf\PerfSerf\obj\Debug\PerfSerf.pdb
